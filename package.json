@@ -1,0 +1,14 @@
+{
+  "name": "mpesa-stk-bot",
+  "version": "1.0.0",
+  "description": "Automated M-Pesa STK Push Bot with 8-second queue intervals",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
